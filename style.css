@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    }
+
+body{
+    /*background-image: url(https://media.istockphoto.com/id/183582878/es/foto/viejo-papel-textere.jpg?s=612x612&w=0&k=20&c=p6nWzbdofb6T3b413EPlyM8oOQno3pR30nlza6wo814=);*/
+    justify-content: center;
+    margin: 25px;
+    /*font-family: "whisper", cursive;*/
+    font-size: 25px;
+    font-style: normal;
+    width: 650px;  
+}
+
+h2{
+    color: coral;
+}
+
+.firstdiv{
+    text-align: right;
+    color: darkred;
+}
+
+.seconddiv{
+    width: 150px;
+    border: 2px solid darkorange;
+    hyphens: manual;
+}
+
+.thirddiv{
+    width: 290px;
+    border: 2px dashed greenyellow;
+    word-wrap: break-word;
+}
+
+p{
+    line-height: 1.6;
+}
+
+dt{
+    font-size: 30px;
+    text-decoration: underline;
+    color: darkorchid;
+    word-spacing: 25px;
+}
+
+#quotes{
+    quotes: '\00AB' '\00BB';
+    writing-mode: vertical-lr;
+    font-weight: bold;
+}
+
+#a{
+    text-decoration: underline overline;
+}
+
+h4{
+    font-size: 30px;
+    text-decoration: underline overline red;
+    word-spacing: 30px;
+}
+
